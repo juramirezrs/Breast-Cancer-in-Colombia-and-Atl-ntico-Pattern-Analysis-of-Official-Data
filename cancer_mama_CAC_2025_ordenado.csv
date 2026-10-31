@@ -1,0 +1,236 @@
+﻿seccion,tabla_origen,anio,nivel,categoria,medida,valor,unidad,ic95_inf,ic95_sup,nota
+serie_nacional,Figura 2.1,2015,Nacional,Colombia,prevalencia_cruda,149.1,por 100.000 mujeres,,,
+serie_nacional,Figura 2.1,2015,Nacional,Colombia,pcnr_cruda,17.0,por 100.000 mujeres,,,Proporción de casos nuevos reportados; no es incidencia pura
+serie_nacional,Figura 2.1,2015,Nacional,Colombia,mortalidad_todas_causas_cruda,7.3,por 100.000 mujeres,,,Muertes por CUALQUIER causa en mujeres con cáncer de mama (cohorte CAC); no es mortalidad por C50
+serie_nacional,Figura 2.1,2016,Nacional,Colombia,prevalencia_cruda,173.7,por 100.000 mujeres,,,
+serie_nacional,Figura 2.1,2016,Nacional,Colombia,pcnr_cruda,15.6,por 100.000 mujeres,,,Proporción de casos nuevos reportados; no es incidencia pura
+serie_nacional,Figura 2.1,2016,Nacional,Colombia,mortalidad_todas_causas_cruda,8.3,por 100.000 mujeres,,,Muertes por CUALQUIER causa en mujeres con cáncer de mama (cohorte CAC); no es mortalidad por C50
+serie_nacional,Figura 2.1,2017,Nacional,Colombia,prevalencia_cruda,198.28,por 100.000 mujeres,,,
+serie_nacional,Figura 2.1,2017,Nacional,Colombia,pcnr_cruda,17.83,por 100.000 mujeres,,,Proporción de casos nuevos reportados; no es incidencia pura
+serie_nacional,Figura 2.1,2017,Nacional,Colombia,mortalidad_todas_causas_cruda,8.96,por 100.000 mujeres,,,Muertes por CUALQUIER causa en mujeres con cáncer de mama (cohorte CAC); no es mortalidad por C50
+serie_nacional,Figura 2.1,2018,Nacional,Colombia,prevalencia_cruda,230.46,por 100.000 mujeres,,,
+serie_nacional,Figura 2.1,2018,Nacional,Colombia,pcnr_cruda,24.22,por 100.000 mujeres,,,Proporción de casos nuevos reportados; no es incidencia pura
+serie_nacional,Figura 2.1,2018,Nacional,Colombia,mortalidad_todas_causas_cruda,10.01,por 100.000 mujeres,,,Muertes por CUALQUIER causa en mujeres con cáncer de mama (cohorte CAC); no es mortalidad por C50
+serie_nacional,Figura 2.1,2019,Nacional,Colombia,prevalencia_cruda,238.41,por 100.000 mujeres,,,
+serie_nacional,Figura 2.1,2019,Nacional,Colombia,pcnr_cruda,17.86,por 100.000 mujeres,,,Proporción de casos nuevos reportados; no es incidencia pura
+serie_nacional,Figura 2.1,2019,Nacional,Colombia,mortalidad_todas_causas_cruda,9.73,por 100.000 mujeres,,,Muertes por CUALQUIER causa en mujeres con cáncer de mama (cohorte CAC); no es mortalidad por C50
+serie_nacional,Figura 2.1,2020,Nacional,Colombia,prevalencia_cruda,282.94,por 100.000 mujeres,,,
+serie_nacional,Figura 2.1,2020,Nacional,Colombia,pcnr_cruda,25.92,por 100.000 mujeres,,,Proporción de casos nuevos reportados; no es incidencia pura
+serie_nacional,Figura 2.1,2020,Nacional,Colombia,mortalidad_todas_causas_cruda,11.91,por 100.000 mujeres,,,Muertes por CUALQUIER causa en mujeres con cáncer de mama (cohorte CAC); no es mortalidad por C50
+serie_nacional,Figura 2.1,2021,Nacional,Colombia,prevalencia_cruda,313.52,por 100.000 mujeres,,,
+serie_nacional,Figura 2.1,2021,Nacional,Colombia,pcnr_cruda,23.75,por 100.000 mujeres,,,Proporción de casos nuevos reportados; no es incidencia pura
+serie_nacional,Figura 2.1,2021,Nacional,Colombia,mortalidad_todas_causas_cruda,15.11,por 100.000 mujeres,,,Muertes por CUALQUIER causa en mujeres con cáncer de mama (cohorte CAC); no es mortalidad por C50
+serie_nacional,Figura 2.1,2022,Nacional,Colombia,prevalencia_cruda,339.91,por 100.000 mujeres,,,
+serie_nacional,Figura 2.1,2022,Nacional,Colombia,pcnr_cruda,28.11,por 100.000 mujeres,,,Proporción de casos nuevos reportados; no es incidencia pura
+serie_nacional,Figura 2.1,2022,Nacional,Colombia,mortalidad_todas_causas_cruda,16.65,por 100.000 mujeres,,,Muertes por CUALQUIER causa en mujeres con cáncer de mama (cohorte CAC); no es mortalidad por C50
+serie_nacional,Figura 2.1,2023,Nacional,Colombia,prevalencia_cruda,367.21,por 100.000 mujeres,,,
+serie_nacional,Figura 2.1,2023,Nacional,Colombia,pcnr_cruda,32.9,por 100.000 mujeres,,,Proporción de casos nuevos reportados; no es incidencia pura
+serie_nacional,Figura 2.1,2023,Nacional,Colombia,mortalidad_todas_causas_cruda,15.16,por 100.000 mujeres,,,Muertes por CUALQUIER causa en mujeres con cáncer de mama (cohorte CAC); no es mortalidad por C50
+serie_nacional,Figura 2.1,2024,Nacional,Colombia,prevalencia_cruda,420.93,por 100.000 mujeres,,,
+serie_nacional,Figura 2.1,2024,Nacional,Colombia,pcnr_cruda,32.14,por 100.000 mujeres,,,Proporción de casos nuevos reportados; no es incidencia pura
+serie_nacional,Figura 2.1,2024,Nacional,Colombia,mortalidad_todas_causas_cruda,16.17,por 100.000 mujeres,,,Muertes por CUALQUIER causa en mujeres con cáncer de mama (cohorte CAC); no es mortalidad por C50
+serie_nacional,Figura 2.1,2025,Nacional,Colombia,prevalencia_cruda,473.68,por 100.000 mujeres,,,
+serie_nacional,Figura 2.1,2025,Nacional,Colombia,pcnr_cruda,33.07,por 100.000 mujeres,,,Proporción de casos nuevos reportados; no es incidencia pura
+serie_nacional,Figura 2.1,2025,Nacional,Colombia,mortalidad_todas_causas_cruda,18.2,por 100.000 mujeres,,,Muertes por CUALQUIER causa en mujeres con cáncer de mama (cohorte CAC); no es mortalidad por C50
+tasas_2025_region,Tabla 2.2,2025,Región,Amazonía-Orinoquía,casos_nuevos,99,casos,,,
+tasas_2025_region,Tabla 2.2,2025,Región,Amazonía-Orinoquía,denominador_mujeres,761812,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.2,2025,Región,Amazonía-Orinoquía,pcnr_cruda,13.0,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.2,2025,Región,Amazonía-Orinoquía,pcnr_estandarizada,15.53,por 100.000 mujeres,12.61,18.91,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.2,2025,Región,"Bogotá, D. C.",casos_nuevos,2018,casos,,,
+tasas_2025_region,Tabla 2.2,2025,Región,"Bogotá, D. C.",denominador_mujeres,4088532,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.2,2025,Región,"Bogotá, D. C.",pcnr_cruda,49.36,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.2,2025,Región,"Bogotá, D. C.",pcnr_estandarizada,39.73,por 100.000 mujeres,38.01,41.52,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.2,2025,Región,Caribe,casos_nuevos,1757,casos,,,
+tasas_2025_region,Tabla 2.2,2025,Región,Caribe,denominador_mujeres,6128647,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.2,2025,Región,Caribe,pcnr_cruda,28.67,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.2,2025,Región,Caribe,pcnr_estandarizada,28.76,por 100.000 mujeres,27.43,30.14,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.2,2025,Región,Central,casos_nuevos,2428,casos,,,
+tasas_2025_region,Tabla 2.2,2025,Región,Central,denominador_mujeres,6401037,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.2,2025,Región,Central,pcnr_cruda,37.93,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.2,2025,Región,Central,pcnr_estandarizada,30.56,por 100.000 mujeres,29.33,31.82,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.2,2025,Región,Oriental,casos_nuevos,1359,casos,,,
+tasas_2025_region,Tabla 2.2,2025,Región,Oriental,denominador_mujeres,5032335,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.2,2025,Región,Oriental,pcnr_cruda,27.01,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.2,2025,Región,Oriental,pcnr_estandarizada,23.3,por 100.000 mujeres,22.07,24.59,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.2,2025,Región,Pacífica,casos_nuevos,1215,casos,,,
+tasas_2025_region,Tabla 2.2,2025,Región,Pacífica,denominador_mujeres,4423792,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.2,2025,Región,Pacífica,pcnr_cruda,27.47,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.2,2025,Región,Pacífica,pcnr_estandarizada,22.98,por 100.000 mujeres,21.69,24.34,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.2,2025,Nacional,Nacional,casos_nuevos,8876,casos,,,
+tasas_2025_region,Tabla 2.2,2025,Nacional,Nacional,denominador_mujeres,26836155,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.2,2025,Nacional,Nacional,pcnr_cruda,33.07,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.2,2025,Nacional,Nacional,pcnr_estandarizada,28.69,por 100.000 mujeres,28.09,29.3,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.4,2025,Región,Amazonía-Orinoquía,casos_prevalentes,1139,casos,,,
+tasas_2025_region,Tabla 2.4,2025,Región,Amazonía-Orinoquía,denominador_mujeres,761812,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.4,2025,Región,Amazonía-Orinoquía,prevalencia_cruda,149.51,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.4,2025,Región,Amazonía-Orinoquía,prevalencia_estandarizada,183.28,por 100.000 mujeres,172.75,194.26,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.4,2025,Región,"Bogotá, D. C.",casos_prevalentes,28164,casos,,,
+tasas_2025_region,Tabla 2.4,2025,Región,"Bogotá, D. C.",denominador_mujeres,4088532,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.4,2025,Región,"Bogotá, D. C.",prevalencia_cruda,688.85,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.4,2025,Región,"Bogotá, D. C.",prevalencia_estandarizada,531.35,por 100.000 mujeres,525.12,537.65,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.4,2025,Región,Caribe,casos_prevalentes,21330,casos,,,
+tasas_2025_region,Tabla 2.4,2025,Región,Caribe,denominador_mujeres,6128647,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.4,2025,Región,Caribe,prevalencia_cruda,348.04,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.4,2025,Región,Caribe,prevalencia_estandarizada,342.57,por 100.000 mujeres,337.98,347.22,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.4,2025,Región,Central,casos_prevalentes,37881,casos,,,
+tasas_2025_region,Tabla 2.4,2025,Región,Central,denominador_mujeres,6401037,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.4,2025,Región,Central,prevalencia_cruda,591.79,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.4,2025,Región,Central,prevalencia_estandarizada,444.82,por 100.000 mujeres,440.27,449.41,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.4,2025,Región,Oriental,casos_prevalentes,19229,casos,,,
+tasas_2025_region,Tabla 2.4,2025,Región,Oriental,denominador_mujeres,5032335,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.4,2025,Región,Oriental,prevalencia_cruda,382.11,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.4,2025,Región,Oriental,prevalencia_estandarizada,315.93,por 100.000 mujeres,311.43,320.47,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.4,2025,Región,Pacífica,casos_prevalentes,19374,casos,,,
+tasas_2025_region,Tabla 2.4,2025,Región,Pacífica,denominador_mujeres,4423792,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.4,2025,Región,Pacífica,prevalencia_cruda,437.95,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.4,2025,Región,Pacífica,prevalencia_estandarizada,342.43,por 100.000 mujeres,337.54,347.37,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.4,2025,Nacional,Nacional,casos_prevalentes,127117,casos,,,
+tasas_2025_region,Tabla 2.4,2025,Nacional,Nacional,denominador_mujeres,26836155,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.4,2025,Nacional,Nacional,prevalencia_cruda,473.68,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.4,2025,Nacional,Nacional,prevalencia_estandarizada,391.83,por 100.000 mujeres,389.65,394.01,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.6,2025,Región,Amazonía-Orinoquía,muertes,65,casos,,,
+tasas_2025_region,Tabla 2.6,2025,Región,Amazonía-Orinoquía,denominador_mujeres,761812,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.6,2025,Región,Amazonía-Orinoquía,mortalidad_todas_causas_cruda,8.53,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.6,2025,Región,Amazonía-Orinoquía,mortalidad_todas_causas_estandarizada,10.47,por 100.000 mujeres,8.07,13.33,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.6,2025,Región,"Bogotá, D. C.",muertes,901,casos,,,
+tasas_2025_region,Tabla 2.6,2025,Región,"Bogotá, D. C.",denominador_mujeres,4088532,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.6,2025,Región,"Bogotá, D. C.",mortalidad_todas_causas_cruda,22.04,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.6,2025,Región,"Bogotá, D. C.",mortalidad_todas_causas_estandarizada,16.3,por 100.000 mujeres,15.25,17.42,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.6,2025,Región,Caribe,muertes,973,casos,,,
+tasas_2025_region,Tabla 2.6,2025,Región,Caribe,denominador_mujeres,6128647,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.6,2025,Región,Caribe,mortalidad_todas_causas_cruda,15.88,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.6,2025,Región,Caribe,mortalidad_todas_causas_estandarizada,15.33,por 100.000 mujeres,14.38,16.33,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.6,2025,Región,Central,muertes,1346,casos,,,
+tasas_2025_region,Tabla 2.6,2025,Región,Central,denominador_mujeres,6401037,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.6,2025,Región,Central,mortalidad_todas_causas_cruda,21.03,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.6,2025,Región,Central,mortalidad_todas_causas_estandarizada,14.96,por 100.000 mujeres,14.16,15.8,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.6,2025,Región,Oriental,muertes,732,casos,,,
+tasas_2025_region,Tabla 2.6,2025,Región,Oriental,denominador_mujeres,5032335,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.6,2025,Región,Oriental,mortalidad_todas_causas_cruda,14.55,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.6,2025,Región,Oriental,mortalidad_todas_causas_estandarizada,11.59,por 100.000 mujeres,10.75,12.47,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.6,2025,Región,Pacífica,muertes,866,casos,,,
+tasas_2025_region,Tabla 2.6,2025,Región,Pacífica,denominador_mujeres,4423792,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.6,2025,Región,Pacífica,mortalidad_todas_causas_cruda,19.58,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.6,2025,Región,Pacífica,mortalidad_todas_causas_estandarizada,14.6,por 100.000 mujeres,13.62,15.64,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_region,Tabla 2.6,2025,Nacional,Nacional,muertes,4883,casos,,,
+tasas_2025_region,Tabla 2.6,2025,Nacional,Nacional,denominador_mujeres,26836155,mujeres,,,"Denominador: mujeres, población DANE proyectada 2024"
+tasas_2025_region,Tabla 2.6,2025,Nacional,Nacional,mortalidad_todas_causas_cruda,18.2,por 100.000 mujeres,,,
+tasas_2025_region,Tabla 2.6,2025,Nacional,Nacional,mortalidad_todas_causas_estandarizada,14.46,por 100.000 mujeres,14.05,14.88,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Contributivo,casos_nuevos,5726,casos,,,
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Contributivo,denominador_mujeres_afiliadas,14533010,mujeres,,,"Denominador: mujeres afiliadas, BDUA corte 30-jun-2024; SD = sin dato (no hay denominador)"
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Contributivo,pcnr_cruda,39.4,por 100.000 mujeres afiliadas,,,
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Contributivo,pcnr_estandarizada,30.56,por 100.000 mujeres afiliadas,29.76,31.37,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Subsidiado,casos_nuevos,2608,casos,,,
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Subsidiado,denominador_mujeres_afiliadas,10681309,mujeres,,,"Denominador: mujeres afiliadas, BDUA corte 30-jun-2024; SD = sin dato (no hay denominador)"
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Subsidiado,pcnr_cruda,24.42,por 100.000 mujeres afiliadas,,,
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Subsidiado,pcnr_estandarizada,21.35,por 100.000 mujeres afiliadas,20.53,22.2,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Excepción,casos_nuevos,405,casos,,,
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Excepción,denominador_mujeres_afiliadas,987631,mujeres,,,"Denominador: mujeres afiliadas, BDUA corte 30-jun-2024; SD = sin dato (no hay denominador)"
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Excepción,pcnr_cruda,41.01,por 100.000 mujeres afiliadas,,,
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Excepción,pcnr_estandarizada,24.96,por 100.000 mujeres afiliadas,22.37,27.81,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Planes voluntarios de salud,casos_nuevos,114,casos,,,
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Especial,casos_nuevos,20,casos,,,
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Especial,denominador_mujeres_afiliadas,21895,mujeres,,,"Denominador: mujeres afiliadas, BDUA corte 30-jun-2024; SD = sin dato (no hay denominador)"
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Especial,pcnr_cruda,91.35,por 100.000 mujeres afiliadas,,,
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,Especial,pcnr_estandarizada,40.52,por 100.000 mujeres afiliadas,20.42,99.8,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.3,2025,Régimen,No asegurado,casos_nuevos,3,casos,,,
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Contributivo,casos_prevalentes,84816,casos,,,
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Contributivo,denominador_mujeres_afiliadas,14533010,mujeres,,,"Denominador: mujeres afiliadas, BDUA corte 30-jun-2024; SD = sin dato (no hay denominador)"
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Contributivo,prevalencia_cruda,583.61,por 100.000 mujeres afiliadas,,,
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Contributivo,prevalencia_estandarizada,430.93,por 100.000 mujeres afiliadas,428.0,433.87,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Subsidiado,casos_prevalentes,30402,casos,,,
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Subsidiado,denominador_mujeres_afiliadas,10681309,mujeres,,,"Denominador: mujeres afiliadas, BDUA corte 30-jun-2024; SD = sin dato (no hay denominador)"
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Subsidiado,prevalencia_cruda,284.63,por 100.000 mujeres afiliadas,,,
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Subsidiado,prevalencia_estandarizada,237.71,por 100.000 mujeres afiliadas,235.0,240.43,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Excepción,casos_prevalentes,8138,casos,,,
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Excepción,denominador_mujeres_afiliadas,987631,mujeres,,,"Denominador: mujeres afiliadas, BDUA corte 30-jun-2024; SD = sin dato (no hay denominador)"
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Excepción,prevalencia_cruda,823.99,por 100.000 mujeres afiliadas,,,
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Excepción,prevalencia_estandarizada,435.67,por 100.000 mujeres afiliadas,425.61,445.96,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Planes voluntarios de salud,casos_prevalentes,1564,casos,,,
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Especial,casos_prevalentes,336,casos,,,
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Especial,denominador_mujeres_afiliadas,21895,mujeres,,,"Denominador: mujeres afiliadas, BDUA corte 30-jun-2024; SD = sin dato (no hay denominador)"
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Especial,prevalencia_cruda,1534.6,por 100.000 mujeres afiliadas,,,
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Especial,prevalencia_estandarizada,485.08,por 100.000 mujeres afiliadas,417.07,577.19,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,No asegurado,casos_prevalentes,88,casos,,,
+tasas_2025_regimen,Tabla 2.5,2025,Régimen,Entidades liquidadas,casos_prevalentes,1773,casos,,,
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Contributivo,muertes,2842,casos,,,
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Contributivo,denominador_mujeres_afiliadas,14533010,mujeres,,,"Denominador: mujeres afiliadas, BDUA corte 30-jun-2024; SD = sin dato (no hay denominador)"
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Contributivo,mortalidad_todas_causas_cruda,19.56,por 100.000 mujeres afiliadas,,,
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Contributivo,mortalidad_todas_causas_estandarizada,13.63,por 100.000 mujeres afiliadas,13.13,14.15,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Subsidiado,muertes,1706,casos,,,
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Subsidiado,denominador_mujeres_afiliadas,10681309,mujeres,,,"Denominador: mujeres afiliadas, BDUA corte 30-jun-2024; SD = sin dato (no hay denominador)"
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Subsidiado,mortalidad_todas_causas_cruda,15.97,por 100.000 mujeres afiliadas,,,
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Subsidiado,mortalidad_todas_causas_estandarizada,12.91,por 100.000 mujeres afiliadas,12.3,13.56,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Excepción,muertes,169,casos,,,
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Excepción,denominador_mujeres_afiliadas,987631,mujeres,,,"Denominador: mujeres afiliadas, BDUA corte 30-jun-2024; SD = sin dato (no hay denominador)"
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Excepción,mortalidad_todas_causas_cruda,17.11,por 100.000 mujeres afiliadas,,,
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Excepción,mortalidad_todas_causas_estandarizada,8.56,por 100.000 mujeres afiliadas,7.23,10.13,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Planes voluntarios de salud,muertes,28,casos,,,
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Especial,muertes,8,casos,,,
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Especial,denominador_mujeres_afiliadas,21895,mujeres,,,"Denominador: mujeres afiliadas, BDUA corte 30-jun-2024; SD = sin dato (no hay denominador)"
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Especial,mortalidad_todas_causas_cruda,36.54,por 100.000 mujeres afiliadas,,,
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Especial,mortalidad_todas_causas_estandarizada,5.36,por 100.000 mujeres afiliadas,2.18,62.84,"Ajustada por edad, método directo, población estándar OMS"
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,No asegurado,muertes,1,casos,,,
+tasas_2025_regimen,Tabla 2.7,2025,Régimen,Entidades liquidadas,muertes,129,casos,,,
+tasas_2025_departamento,Texto 2.1.1 / 2.1.5,2025,Departamento,Atlántico,pcnr_estandarizada,37.84,por 100.000 mujeres,,,Más alta del país (texto 2.1.1). Sin IC en el texto; detalle en el sitio de la CAC
+tasas_2025_departamento,Texto 2.1.1 / 2.1.5,2025,Departamento,Antioquia,pcnr_estandarizada,36.4,por 100.000 mujeres,,,Texto 2.1.1. Sin IC en el texto; detalle en el sitio de la CAC
+tasas_2025_departamento,Texto 2.1.1 / 2.1.5,2025,Departamento,Bolívar,pcnr_estandarizada,36.14,por 100.000 mujeres,,,Texto 2.1.1. Sin IC en el texto; detalle en el sitio de la CAC
+tasas_2025_departamento,Texto 2.1.1 / 2.1.5,2025,Departamento,"San Andrés, Providencia y Santa Catalina",mortalidad_todas_causas_estandarizada,20.39,por 100.000 mujeres,,,"Más alta, pero solo 8 muertes (texto 2.1.5). Sin IC en el texto; detalle en el sitio de la CAC"
+tasas_2025_departamento,Texto 2.1.1 / 2.1.5,2025,Departamento,Atlántico,mortalidad_todas_causas_estandarizada,19.68,por 100.000 mujeres,,,Segunda más alta (texto 2.1.5). Sin IC en el texto; detalle en el sitio de la CAC
+tasas_2025_departamento,Texto 2.1.1 / 2.1.5,2025,Departamento,Valle del Cauca,mortalidad_todas_causas_estandarizada,17.86,por 100.000 mujeres,,,Texto 2.1.5. Sin IC en el texto; detalle en el sitio de la CAC
+tasas_2025_departamento,Texto 2.1.1 / 2.1.5,2025,Departamento,Guaviare,mortalidad_todas_causas_estandarizada,5.96,por 100.000 mujeres,,,Más baja (texto 2.1.5). Sin IC en el texto; detalle en el sitio de la CAC
+tasas_2025_departamento,Texto 2.1.1 / 2.1.5,2025,Departamento,Amazonas,mortalidad_todas_causas_estandarizada,6.63,por 100.000 mujeres,,,Texto 2.1.5. Sin IC en el texto; detalle en el sitio de la CAC
+contexto_poblacion,Figura 1,2025,Departamento,Atlántico,poblacion_total_ambos_sexos,2836795,personas,,,"Población proyectada DANE 2025, ambos sexos (no solo mujeres)"
+totales_2025,Texto 2.1,2025,Nacional,Colombia,casos_mujeres_insitu_e_invasivo,136282,casos,,,"Prevalentes, todas las extensiones"
+totales_2025,Texto 2.1,2025,Nacional,Colombia,casos_nuevos_mujeres,9656,casos,,,"7,09 % de los 136.282"
+totales_2025,Texto 2.1,2025,Nacional,Colombia,muertes_todas_causas_mujeres,5034,muertes,,,"Mujeres con el diagnóstico, todas las causas"
+totales_2025,Texto 2.1,2025,Nacional,Colombia,casos_hombres,1671,casos,,,Cáncer de mama en hombres
+totales_2025,Texto 2.1,2025,Nacional,Colombia,casos_nuevos_hombres,66,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,extension,In situ,casos,780,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,extension,In situ,porcentaje,8.08,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,extension,Invasivo,casos,8876,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,extension,Invasivo,porcentaje,91.92,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,estadio,In situ,casos,818,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,estadio,In situ,porcentaje,8.47,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,estadio,Estadio I,casos,1841,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,estadio,Estadio I,porcentaje,19.07,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,estadio,Estadio II,casos,3751,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,estadio,Estadio II,porcentaje,38.85,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,estadio,Estadio III,casos,2120,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,estadio,Estadio III,porcentaje,21.96,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,estadio,Estadio IV,casos,540,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,estadio,Estadio IV,porcentaje,5.59,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,estadio,Desconocido,casos,586,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,estadio,Desconocido,porcentaje,6.07,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,resultado_HER2_invasivos_con_prueba,Positivo (+++),casos,1581,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,resultado_HER2_invasivos_con_prueba,Positivo (+++),porcentaje,19.09,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,resultado_HER2_invasivos_con_prueba,Negativo (+ o 0),casos,5749,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,resultado_HER2_invasivos_con_prueba,Negativo (+ o 0),porcentaje,69.42,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,resultado_HER2_invasivos_con_prueba,Equívoco/indeterminado (++),casos,949,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,resultado_HER2_invasivos_con_prueba,Equívoco/indeterminado (++),porcentaje,11.46,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,receptores_hormonales_con_prueba,PgR+ y RE+,casos,5787,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,receptores_hormonales_con_prueba,PgR+ y RE+,porcentaje,66.1,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,receptores_hormonales_con_prueba,PgR+ o RE+,casos,985,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,receptores_hormonales_con_prueba,PgR+ o RE+,porcentaje,11.25,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+clinica_casos_nuevos,Tabla 2.9,2025,receptores_hormonales_con_prueba,PgR- y RE-,casos,1979,casos,,,
+clinica_casos_nuevos,Tabla 2.9,2025,receptores_hormonales_con_prueba,PgR- y RE-,porcentaje,22.6,%,,,"Denominador: 9.656 casos nuevos (estadio, extensión); casos con prueba en HER2/receptores"
+tratamiento_casos_nuevos,Tabla 2.11,2025,Tratamiento,Algún tratamiento,casos,8243,casos,,,
+tratamiento_casos_nuevos,Tabla 2.11,2025,Tratamiento,Algún tratamiento,porcentaje,85.37,%,,,Algún tratamiento: % de 9.656; los demás: % de quienes recibieron tratamiento (8.243). No excluyentes
+tratamiento_casos_nuevos,Tabla 2.11,2025,Tratamiento,Terapia sistémica,casos,6773,casos,,,
+tratamiento_casos_nuevos,Tabla 2.11,2025,Tratamiento,Terapia sistémica,porcentaje,82.17,%,,,Algún tratamiento: % de 9.656; los demás: % de quienes recibieron tratamiento (8.243). No excluyentes
+tratamiento_casos_nuevos,Tabla 2.11,2025,Tratamiento,Cirugía,casos,4527,casos,,,
+tratamiento_casos_nuevos,Tabla 2.11,2025,Tratamiento,Cirugía,porcentaje,54.92,%,,,Algún tratamiento: % de 9.656; los demás: % de quienes recibieron tratamiento (8.243). No excluyentes
+tratamiento_casos_nuevos,Tabla 2.11,2025,Tratamiento,Radioterapia,casos,1739,casos,,,
+tratamiento_casos_nuevos,Tabla 2.11,2025,Tratamiento,Radioterapia,porcentaje,21.1,%,,,Algún tratamiento: % de 9.656; los demás: % de quienes recibieron tratamiento (8.243). No excluyentes
+clinica_casos_nuevos,Tabla 2.8,2025,Edad,Casos nuevos,mediana_edad,58,años,48,68,IC columnas = rango intercuartílico
+clinica_casos_prevalentes,Tabla 2.12,2025,Edad,Casos prevalentes,mediana_edad,64,años,54,72,IC columnas = rango intercuartílico
+clinica_casos_nuevos,Texto 2.2.2,2025,Subtipo,RH+ / HER2-,porcentaje,55.31,%,,,Con ambas pruebas realizadas
+clinica_casos_nuevos,Texto 2.2.2,2025,Subtipo,RH- / HER2- (triple negativo),porcentaje,14.07,%,,,Con ambas pruebas realizadas
+oportunidad,Figs. 2.5-2.7,2025,Nacional,Atención general (consulta por síntomas a primer tratamiento),promedio_dias,107.78,días,,,Meta ≤75 días. 
+oportunidad,Figs. 2.5-2.7,2025,Nacional,Atención en cáncer (diagnóstico a primer tratamiento),promedio_dias,66.84,días,,,Meta ≤45 días. 
+oportunidad,Figs. 2.5-2.7,2025,Nacional,Diagnóstico (mamografía/remisión a confirmación),promedio_dias,38.05,días,,,"Meta ≤30 días. Contributivo 33,96; subsidiado 49,10"
+oportunidad,Figs. 2.5-2.7,2025,Nacional,Atención por médico tratante,promedio_dias,45.62,días,,,Meta ≤20 días. 
+oportunidad,Figs. 2.5-2.7,2025,Nacional,Inicio del tratamiento,promedio_dias,27.29,días,,,"Meta ≤25 días. Contributivo 27,34; subsidiado 26,75"
+oportunidad,Figs. 2.5-2.7,2025,Nacional,Prueba ISH tras HER2 equívoco,promedio_dias,94.63,días,,,
+oportunidad,Figs. 2.5-2.7,2025,Nacional,Terapia adyuvante tras cirugía,promedio_dias,69.14,días,,,
+oportunidad,Figs. 2.5-2.7,2025,Nacional,Cirugía tras neoadyuvancia,promedio_dias,9.06,días,,,
